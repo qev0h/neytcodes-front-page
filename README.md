@@ -1,2 +1,2 @@
-# neytcodes-front-page
-Front-end website
+# Neytcodes-front-page
+Front-end webpage design
